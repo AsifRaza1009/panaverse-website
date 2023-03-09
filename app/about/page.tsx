@@ -14,7 +14,7 @@ import {
 import React from "react";
 import Image from "next/image";
 import logo from "../../public/logo4.png";
-import zia from "../../public/zia.jpg";
+import zia from "../../public/Zia.jpg";
 import zeeshan from "../../public/zeeshan.jpg";
 import Daynial from "../../public/Daniyal.jpg";
 import adil from "../../public/adil.jpg";
